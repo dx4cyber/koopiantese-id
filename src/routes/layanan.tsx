@@ -8,7 +8,11 @@ export const Route = createFileRoute("/layanan")({
   head: () => ({
     meta: [
       { title: "Layanan & Akses — Koopiantese.id" },
-      { name: "description", content: "Pesan Koopiantese.id melalui GoFood, GrabFood, dan ShopeeFood. Kopi hangat siap diantar." },
+      {
+        name: "description",
+        content:
+          "Pesan Koopiantese.id melalui GoFood, GrabFood, dan ShopeeFood. Kopi hangat siap diantar.",
+      },
       { property: "og:title", content: "Layanan & Akses — Koopiantese.id" },
       { property: "og:description", content: "Pesan via GoFood, GrabFood, dan ShopeeFood." },
       { property: "og:url", content: "/layanan" },
@@ -43,8 +47,10 @@ const services = [
 ];
 
 const testimonials = [
-
-  { q: "Tempat ternyaman untuk menyendiri sambil ditemani secangkir kopi yang jujur.", a: "— Pelanggan setia" },
+  {
+    q: "Tempat ternyaman untuk menyendiri sambil ditemani secangkir kopi yang jujur.",
+    a: "— Pelanggan setia",
+  },
   { q: "Rasanya seperti pulang. Hangat, tenang, dan selalu ingin kembali.", a: "— Anonim" },
   { q: "Kopi yang diseduh dengan rasa, bukan sekadar resep.", a: "— Pengunjung" },
 ];
@@ -59,12 +65,15 @@ function LayananPage() {
           transition={{ duration: 0.7 }}
           className="max-w-2xl"
         >
-          <p className="mb-5 text-[11px] uppercase tracking-[0.32em] text-[var(--brown)]">Layanan & Akses</p>
+          <p className="mb-5 text-[11px] uppercase tracking-[0.32em] text-[var(--brown)]">
+            Layanan & Akses
+          </p>
           <h1 className="font-serif text-5xl leading-tight text-[var(--navy)] md:text-6xl">
             Kapan pun, di mana pun — <span className="italic text-[var(--brown)]">kami antar.</span>
           </h1>
           <p className="mt-6 text-base leading-relaxed text-[var(--ink)]/70">
-            Kini Koopiantese.id melayani pesanan melalui mitra ojek online favoritmu. Pilih salah satu di bawah, dan biarkan secangkir hangat kami sampai ke pintumu.
+            Kini Koopiantese.id melayani pesanan melalui mitra ojek online favoritmu. Pilih salah
+            satu di bawah, dan biarkan secangkir hangat kami sampai ke pintumu.
           </p>
         </motion.div>
 
@@ -92,14 +101,15 @@ function LayananPage() {
                   />
                 </div>
                 <p className="mt-5 font-serif text-2xl text-[var(--navy)]">{s.desc}</p>
-                <p className="mt-1 text-xs uppercase tracking-widest text-muted-foreground">{s.tag}</p>
+                <p className="mt-1 text-xs uppercase tracking-widest text-muted-foreground">
+                  {s.tag}
+                </p>
               </div>
               <div className="mt-8 flex items-center gap-2 text-sm text-[var(--navy)]">
                 Pesan sekarang
                 <span className="transition-transform group-hover:translate-x-1">→</span>
               </div>
             </motion.a>
-
           ))}
         </div>
       </section>
@@ -129,7 +139,9 @@ function LayananPage() {
                 <p className="font-serif text-xl italic leading-snug text-[var(--navy)] md:text-2xl">
                   “{t.q}”
                 </p>
-                <footer className="mt-4 text-xs uppercase tracking-widest text-muted-foreground">{t.a}</footer>
+                <footer className="mt-4 text-xs uppercase tracking-widest text-muted-foreground">
+                  {t.a}
+                </footer>
               </motion.blockquote>
             ))}
           </div>

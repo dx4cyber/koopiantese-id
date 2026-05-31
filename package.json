@@ -6,7 +6,6 @@
     "scripts": {
   "dev": "vite",
   "build": "vite build",
-  "postinstall": "node -e \"const fs = require('fs'); const path = 'node_modules/@tanstack/start-storage-context/dist/esm/index.js'; if(fs.existsSync(path)) { fs.writeFileSync(path, 'export class AsyncLocalStorage { disable() {} getStore() { return undefined; } run(store, callback, ...args) { return callback(...args); } exit(callback, ...args) { return callback(...args); } enterWith(store) {} } export function getStartContext() { return null; } export function runWithStartContext(context, callback) { return callback(); }'); console.log('Mocked async-hooks successfully!'); }\""
 }
   "dependencies": {
     "@tanstack/react-query": "^5.83.0",

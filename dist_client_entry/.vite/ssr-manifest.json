@@ -1,0 +1,122 @@
+{
+  "assets/gofood.png": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "assets/grabfood.png": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "assets/logo.png": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "assets/maskot-3d.png": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "assets/shopeefood.png": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "client.tsx": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "components/MajoSection.tsx": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "routeTree.gen.ts": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "router.tsx": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "routes/__root.tsx": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "routes/index.tsx": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "routes/kontak.tsx": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "routes/layanan.tsx": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "style.css?transform-only": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ],
+  "style.css?url": [
+    "/assets/logo-BmzJJDu1.png",
+    "/assets/gofood-Dakct_lk.png",
+    "/assets/grabfood-BWITb5h8.png",
+    "/assets/shopeefood-CCIueMQF.png",
+    "/assets/maskot-3d-Gd-35nps.png",
+    "/assets/style-yaTSZDpr.css"
+  ]
+}
