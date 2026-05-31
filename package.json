@@ -6,7 +6,7 @@
     "scripts": {
   "dev": "vite",
   "build": "vite build",
-}
+},
   "dependencies": {
     "@tanstack/react-query": "^5.83.0",
     "@tanstack/react-router": "1.170.10",
